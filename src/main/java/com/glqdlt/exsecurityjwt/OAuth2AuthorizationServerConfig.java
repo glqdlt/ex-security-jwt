@@ -17,6 +17,15 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 public class OAuth2AuthorizationServerConfig extends AuthorizationServerConfigurerAdapter {
 
 
+//    3
+
+
+
+
+
+
+
+
     //    @Value("${symmetric.key}")
     private String privateKey = "123";
 
